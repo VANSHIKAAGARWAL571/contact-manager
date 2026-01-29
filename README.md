@@ -136,12 +136,12 @@ These sample contacts help you:
 2. Fill in the required fields:
    - Name (alphabets only)
    - Email (valid email format)
-   - Phone (10 digits)
+   - Phone (10 digits) (Not required field as not mentioned in UI, Figma design given)
    - Address Line 1 (required)
    - Address Line 2 (optional)
    - State (select from dropdown)
    - Pincode (6 digits)
-3. Click **"Add Contact"** to save (Not the required field as not mentioned in the UI)
+3. Click **"Add Contact"** to save
 
 ### Viewing Contact Details
 1. Click on any contact name in the table
