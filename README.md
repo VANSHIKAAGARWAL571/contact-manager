@@ -215,7 +215,7 @@ When you reload the page:
    ### Add Contact Modal Form
    ![Contact Manager Table](screenshots/2.jpg)
    ![Validations](screenshots/3.jpg)
-   ![Dropdown] (screenshots/9.jpg)
+   ![Dropdown](screenshots/9.jpg)
 
 
    ### Delete Confirmation
@@ -226,7 +226,7 @@ When you reload the page:
    ### Click on name to view info popup
    ![Click on name to view info](screenshots/6.jpg)
 
-    ### Search functionality
+   ### Search functionality
    ![Click on name to view info](screenshots/7.jpg)
 
    ```
