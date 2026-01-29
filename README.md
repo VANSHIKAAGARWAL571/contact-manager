@@ -141,7 +141,7 @@ These sample contacts help you:
    - Address Line 2 (optional)
    - State (select from dropdown)
    - Pincode (6 digits)
-3. Click **"Add Contact"** to save
+3. Click **"Add Contact"** to save (Not the required field as not mentioned in the UI)
 
 ### Viewing Contact Details
 1. Click on any contact name in the table
